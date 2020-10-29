@@ -1,0 +1,28 @@
+
+.Education-1 {
+	text-align: center; color: black;font-size: 29px;font-family: all; 
+	margin-right: 100px; left: 200px; 
+	background-color: rgb(230 100 205); border-right: solid; border-left: solid; 
+	border-radius: 50px;
+}
+
+#dream-1{
+	
+	font-size: 19px; font-variant-numeric: slashed-zero;
+	background-image: url(b.jpg); 
+  background-position: right; 
+  background-attachment: scroll; margin-left: 100px; margin-right: 100px;
+    border-color: orange; border-width: 8px;
+   border-style:dotted; border-radius: 20px;
+	}
+
+	#head-4{
+		text-align: center; color: rgb(205 99 106);
+	}
+
+#video-1{
+	    width: 180; margin: 400px 500px;
+	    margin-top: 25px; margin-bottom: 25px;
+
+}
+
